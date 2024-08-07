@@ -35,7 +35,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 老乔SG出海笔记
+  name: SG老乔
   email: kn4u44@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -47,7 +47,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: google-site-verification=DmZ8mcMVwSD5kbVKTBUmvLr8v8HV9fxblr58FaQIwJQ # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -60,7 +60,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-Z8BRX10L0N # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -111,7 +111,7 @@ comments:
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: https-blog-sgchuhai-com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
