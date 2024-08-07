@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 老乔SG出海笔记 # the main title
+title: SG老乔 # the main title
 
 tagline: 人在狮城，记录出海点滴 # it will display as the sub-title
 
@@ -26,11 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: oechuhai # change to your github username
+  username: joechuhai # change to your github username
 
 twitter:
   username: sgchuhai # change to your twitter username
-  card: summary
 
 social:
   # Change to your full name.
