@@ -8,7 +8,7 @@ comments: true
 
 Hi，这是本博客的第一篇博文，由于还不太熟悉 jekyll 的用法，第一篇博文，就给大家分享下个人搭建的网址导航工具吧。
 
-站点：https://nav.sgchuhai.com/
+站点：[SG出海导航](https://nav.sgchuhai.com/)
 
 ![网站截图](https://image.sgchuhai.com/image/homepage-nav-sgchuhai.png)
 
