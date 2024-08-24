@@ -1,9 +1,8 @@
 ---
 title: SG出海导航——新加坡工作、生活、创业必备网址导航站
 date: 2024-08-20 21:05:00 +0800
-categories: [资源推荐, 实用工具]    # TAG names should always be lowercase
+categories: [资源推荐, 实用工具]    
 pin: true
-comments: true
 tags: [新加坡, 出海, 工作, 生活, 创业, 导航, 资源]
 ---
 
