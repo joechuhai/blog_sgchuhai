@@ -2,7 +2,7 @@
 title: 如何快速申请企业邓白氏编码（D-U-N-S Number）
 date: 2024-08-24 15:40:00 +0800
 categories: [业务指南, 商业认证]    
-tags: [邓白氏编码, D-U-N-S Number, 企业注册, Dun & Bradstreet, 申请指南, 商业信息, 开发者账号, 商业认证]
+tags: [邓氏编码, D-U-N-S Number, 企业注册, Dun & Bradstreet, 申请指南, 商业信息, 开发者账号, 商业认证]
 description: 提供方便快捷的企业邓白氏编码注册指南
 ---
 
@@ -19,13 +19,13 @@ description: 提供方便快捷的企业邓白氏编码注册指南
 
 如下是一些信息网站，帮助你查证**某家公司是否已存在邓白氏编码**。
 
-1. 邓白氏官网：https://www.dnb.com/
+1. 邓白氏官网：[https://www.dnb.com/](https://www.dnb.com/)
 
    访问官方后，点击顶部搜索框，选择【Business Directory】搜索查询
 
    ![dnb official](https://image.sgchuhai.com/image/2024/d1d8ec01e71611bf6b3283401456951d.png)
 
-2. 邓白氏德国分站：https://www.dnb.com/de-de/upik-en.html
+2. 邓白氏德国分站：[https://www.dnb.com/de-de/upik-en.html](https://www.dnb.com/de-de/upik-en.html)
 
    切换地区，搜索公司名直接查询
 
