@@ -1,7 +1,7 @@
 ---
 title: 如何快速申请企业邓白氏编码（D-U-N-S Number）
 date: 2024-08-24 15:40:00 +0800
-categories: [出海运营, 商业认证]    
+categories: [业务指南, 商业认证]    
 tags: [邓白氏编码, D-U-N-S Number, 企业注册, Dun & Bradstreet, 申请指南, 商业信息, 开发者账号, 商业认证]
 description: 提供方便快捷的企业邓白氏编码注册指南
 ---
