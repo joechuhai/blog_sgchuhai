@@ -31,7 +31,7 @@ description: 提供方便快捷的企业邓白氏编码注册指南
 
    ![dnb de](https://image.sgchuhai.com/image/2024/23ab213e3f8fded08c367295274dd553.png)
 
-3. 苹果开发者平台查询：https://developer.apple.com/enroll/duns-lookup/#!/search
+3. 苹果开发者平台查询：[https://developer.apple.com/enroll/duns-lookup/#!/search](https://developer.apple.com/enroll/duns-lookup/#!/search)
 
 如果贵司是一家新注册企业，因某些需求又急需该编码，那么主动申请注册。
 
