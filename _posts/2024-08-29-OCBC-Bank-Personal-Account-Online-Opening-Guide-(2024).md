@@ -4,6 +4,7 @@ date: 2024-08-29 19:58:00 +0800
 categories: [银行开户, 个人银行]    
 tags: [OCBC, 华侨银行, 个人账户, 新加坡银行, 在线开户]
 description: 无需亲临网点（比香港银行还方便），通过线上APP即可完成开户
+image: assets/img/preview/OCBC.jpg
 ---
 
 

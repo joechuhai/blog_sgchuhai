@@ -4,6 +4,7 @@ date: 2024-08-27 19:58:00 +0800
 categories: [业务指南, 开发者账号]    
 tags: [Google Play, 开发者账号, 邓氏编码, 注册指南]
 description: 谷歌开发者企业组织号注册指南分享
+image: assets/img/preview/GOOGLE.jpg
 ---
 
 
