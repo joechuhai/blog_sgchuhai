@@ -10,50 +10,82 @@ image: assets/img/preview/sg.jpg
 
 iOS  企业开发者账号（Apple Developer）注册指南
 
-前言
+## 一、前言
 
-老乔此前已分享过Google Play的企业开发者账号注册，本文将详细分享iOS开发者组织号的注册经验。
+老乔此前已分享过Google Play的企业开发者账号注册，本文将详细分享iOS企业开发者账号的注册经验。
 
 下表是注册流程、信息概览：
 
-| Apple Developer Program 组织号注册流程/信息 |          |
-| ------------------------------------------- | -------- |
-| 1.注册 Apple ID                             |          |
-| 姓名                                        |          |
-| 国家                                        |          |
-| 出生日期                                    |          |
-| appleID邮箱                                 |          |
-| appleID密码                                 |          |
-| 联系电话                                    |          |
-| 2. 注册苹果开发者                           |          |
-| 2.1 填写账户持有人信息                      |          |
-| 姓名                                        |          |
-| 电话                                        |          |
-| 地址                                        |          |
-| 2.2 填写组织信息                            |          |
-| 法定实体名称                                |          |
-| 邓氏编号                                    |          |
-| 地址                                        |          |
-| 电话号码                                    |          |
-| 公司网站                                    |          |
-| 授权签字                                    |          |
-| 工作邮箱                                    |          |
-| 2.3 递交申请                                |          |
-| 2.4 企业信息电话认证                        |          |
-| a.按邮件操作，等待回访电话                  |          |
-| b.接听电话，提供案件id                      | 邮件有写 |
-| c.提供申请id                                | 邮件有写 |
-| d.确认账号用途                              | 软件发行 |
-| e.是否代表xx本人                            | 是       |
-| f.公司职位情况                              | 如实说明 |
-| g.公司全称                                  | 如实说明 |
-| h.常用工作邮箱                              | 0        |
-| i.是否要添加辅助联络人                      | 暂不处理 |
-| 2.5 申请通过，缴纳$99费用（150新元）        |          |
-| 2.6 确认同意协议                            |          |
-| 2.7 绑定收款银行账户                        |          |
-| 2.8 填写税务申报信息                        |          |
-| 3 等待验证即可完成                          |          |
+| Apple Developer Program 组织号注册流程 |          |
+| -------------------------------------- | -------- |
+| 1.注册 Apple ID                        |          |
+| 姓名                                   |          |
+| 国家                                   |          |
+| 出生日期                               |          |
+| appleID邮箱                            |          |
+| appleID密码                            |          |
+| 联系电话                               |          |
+| 2. 注册苹果开发者                      |          |
+| 2.1 填写账户持有人信息                 |          |
+| 姓名                                   |          |
+| 电话                                   |          |
+| 地址                                   |          |
+| 2.2 填写组织信息                       |          |
+| 法定实体名称                           |          |
+| 邓氏编号                               |          |
+| 地址                                   |          |
+| 电话号码                               |          |
+| 公司网站                               |          |
+| 授权签字                               |          |
+| 工作邮箱                               |          |
+| 2.3 递交申请                           |          |
+| 2.4 企业信息电话认证                   |          |
+| a.按邮件操作，等待回访电话             |          |
+| b.接听电话，提供案件id                 | 邮件有写 |
+| c.提供申请id                           | 邮件有写 |
+| d.确认账号用途                         | 软件发行 |
+| e.是否代表xx本人                       | 是       |
+| f.公司职位情况                         | 如实说明 |
+| g.公司全称                             | 如实说明 |
+| h.常用工作邮箱                         | 0        |
+| i.是否要添加辅助联络人                 | 暂不处理 |
+| 2.5 申请通过，缴纳等值US$99费用        |          |
+| 2.6 确认同意协议                       |          |
+| 2.7 绑定收款银行账户                   |          |
+| 2.8 填写税务申报信息                   |          |
+| 3 等待验证即可投入使用                 |          |
+
+## 二、注册前准备
+
+注册前，建议详细阅读官方指南 [使用 Apple Developer App 注册、验证和续订](https://developer.apple.com/cn/support/app-account/#organization)。
+
+![Enrolling requirement for organization](iOS%20Deveoper%20Program.assets/f16ed12807ff5f1f94513361bd1e1748.png)
+
+准备工作如下：
+
+- 一个已开启双重认证的Apple ID
+
+  该账号要与公司注册管辖区一致，如美国公司就用美区appleID
+
+- 一台Apple设备（确保此前未使用该设备注册过开发者账号）
+
+- 准备好下表相关信息
+
+本文以新加坡公司为例，分享apple组织开发者的注册过程。
+
+## 三、详细步骤
+
+### 3.1 填写申请表单
+
+电脑浏览器打开此链接，点击“start your enrollment”，登录准备好的Apple ID。
+
+![](https://image.sgchuhai.com/image/2024/f5afb0de45c339b0a3f909afdb1a46ec.png)
+
+![Submit Enrollment Form - Part 1](https://image.sgchuhai.com/image/2024/2c5c81cdd5402491388435ab6d5c2453.png)
+
+
+
+
 
 
 
@@ -111,7 +143,6 @@ apple授权人信息
 
 
 
-![Enrolling requirement for organization](https://image.sgchuhai.com/image/2024/f16ed12807ff5f1f94513361bd1e1748.png)
 ![](https://image.sgchuhai.com/image/2024/be58f25173ee2542eb87548e02750a8b.png)
 ![Finacial info setting](https://image.sgchuhai.com/image/2024/15552aba9ea4fca0dec5d89d3a20f0e6.png)
 ![tax](https://image.sgchuhai.com/image/2024/25d782d45dc3ed98a5d674e4d02c4860.png)
@@ -134,4 +165,3 @@ apple授权人信息
 ![Organization verification mail](https://image.sgchuhai.com/image/2024/b81296fe4e24fa8f89833355e8bb683d.png)
 ![Submit Enrollment Form - Part 3](https://image.sgchuhai.com/image/2024/94512f7ad5ba798e06fd901e0ad24201.png)
 ![Submit Enrollment Form - Part 2](https://image.sgchuhai.com/image/2024/76e6243a5886b3523ed45e44b7ea12ea.png)
-![Submit Enrollment Form - Part 1](https://image.sgchuhai.com/image/2024/2c5c81cdd5402491388435ab6d5c2453.png)
