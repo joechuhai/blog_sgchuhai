@@ -81,7 +81,44 @@ iOS  企业开发者账号（Apple Developer）注册指南
 
 ![](https://image.sgchuhai.com/image/2024/f5afb0de45c339b0a3f909afdb1a46ec.png)
 
+登录成功后，将自动跳转至注册页面，选择开发者账号的注册类为【公司/组织】，点击下一步；
+
 ![Submit Enrollment Form - Part 1](https://image.sgchuhai.com/image/2024/2c5c81cdd5402491388435ab6d5c2453.png)
+
+接下来，输入公司名称和邓氏编码（相关内容：什么是邓氏编码以及如何申请？），点击下一步；
+
+![Submit Enrollment Form - Part 2](https://image.sgchuhai.com/image/2024/76e6243a5886b3523ed45e44b7ea12ea.png)
+
+接下来填写公司相关其他信息，可以看到公司相关的地址信息已经自动从邓氏编码获取到了。还需要填写如下信息：
+
+- 公司网站
+- 公司电话（建议用对应区域的电话）
+- 选择经办人身份（第一责任人 或 授权人）
+- 工作邮箱（建议用企业域名邮箱）
+
+![Submit Enrollment Form - Part 3](https://image.sgchuhai.com/image/2024/94512f7ad5ba798e06fd901e0ad24201.png)
+
+完成后，再次核对下相关的申请信息，没问题就点击提交。
+
+![Submit Enrollment Form - Part 4](https://image.sgchuhai.com/image/2024/c90f4a9b7d22823283c5dcbaa58e5f8d.png)
+
+### 3.2 人工信息复核
+
+递交申请表后，一般2-5个工作日，会收到苹果官方的【信息复核】邮件，要求我们通过电话来完成相关信息的确认。
+
+![Organization verification mail](https://image.sgchuhai.com/image/2024/b81296fe4e24fa8f89833355e8bb683d.png)
+
+### 3.2 注册费用缴纳
+
+
+
+### 3.4 账号设置完善
+
+
+
+
+
+
 
 
 
@@ -142,7 +179,6 @@ apple授权人信息
 
 
 
-
 ![](https://image.sgchuhai.com/image/2024/be58f25173ee2542eb87548e02750a8b.png)
 ![Finacial info setting](https://image.sgchuhai.com/image/2024/15552aba9ea4fca0dec5d89d3a20f0e6.png)
 ![tax](https://image.sgchuhai.com/image/2024/25d782d45dc3ed98a5d674e4d02c4860.png)
@@ -161,7 +197,6 @@ apple授权人信息
 ![Organization verification - part 3](https://image.sgchuhai.com/image/2024/cc7cdd936fc7bb0299c4effde858a3ea.png)
 ![Organization verification - part 2](https://image.sgchuhai.com/image/2024/92513af8f3862a56716bb6e4e2d62c77.png)
 ![Organization verification - part 1](https://image.sgchuhai.com/image/2024/31885f37ea451f76bb97bcc314841dca.png)
-![Submit Enrollment Form - Part 4](https://image.sgchuhai.com/image/2024/c90f4a9b7d22823283c5dcbaa58e5f8d.png)
-![Organization verification mail](https://image.sgchuhai.com/image/2024/b81296fe4e24fa8f89833355e8bb683d.png)
-![Submit Enrollment Form - Part 3](https://image.sgchuhai.com/image/2024/94512f7ad5ba798e06fd901e0ad24201.png)
-![Submit Enrollment Form - Part 2](https://image.sgchuhai.com/image/2024/76e6243a5886b3523ed45e44b7ea12ea.png)
+
+
+
