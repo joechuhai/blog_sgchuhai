@@ -1,7 +1,7 @@
 ---
 title: Apple开发者组织账号注册指南（2024）
 date: 2024-12-02 20:33:00 +0800
-categories: [资源推荐, 实用工具]    
+categories: [业务指南, 开发者账号]  
 tags: [Apple Store, 苹果开发者, 开发者账号, Apple Developer Program,注册指南]
 description: 从账号注册到税务信息登记~
 image: assets/img/preview/apple_dev.jpg
