@@ -56,7 +56,7 @@ image: assets/img/preview/apple_dev.jpg
 
 注册前，建议详细阅读官方指南 [使用 Apple Developer App 注册、验证和续订](https://developer.apple.com/cn/support/app-account/#organization)。
 
-![Enrolling requirement for organization](iOS%20Deveoper%20Program.assets/f16ed12807ff5f1f94513361bd1e1748.png)
+![Enrolling requirement for organization](https://image.sgchuhai.com/image/2024/f16ed12807ff5f1f94513361bd1e1748.png)
 
 准备工作如下：
 
