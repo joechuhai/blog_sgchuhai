@@ -175,7 +175,7 @@ b.完成税务信息登记
 2. 申报实益拥有人之外国人身份证明
 3. 美国预提税申报表
 
-根据公司实际情况填写即可，有需要可咨询博主~
+根据公司实际情况填写即可，有需要可[咨询博主](https://blog.sgchuhai.com/about/)~
 
 ![tax](https://image.sgchuhai.com/image/2024/1627c0ef0c9d886e0f17fd37442009be.png)
 
