@@ -73,7 +73,7 @@ image: assets/img/preview/apple_dev.jpg
 
 ### 3.1 填写申请表单
 
-电脑浏览器打开此链接，点击“start your enrollment”，登录准备好的Apple ID。
+电脑浏览器打开此[链接](https://developer.apple.com/programs/enroll/)，点击“start your enrollment”，登录准备好的Apple ID。
 
 ![](https://image.sgchuhai.com/image/2024/f5afb0de45c339b0a3f909afdb1a46ec.png)
 
