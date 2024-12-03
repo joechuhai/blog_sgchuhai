@@ -12,6 +12,7 @@ image: assets/img/preview/apple_dev.jpg
 老乔此前已分享过Google Play的企业开发者账号注册，本文将详细分享iOS企业开发者账号的注册经验。
 
 下表是注册流程、信息概览：
+![Overview](https://image.sgchuhai.com/image/2024/98363151cec881d5516d8161fea6e11f.png)
 
 | Apple Developer Program 组织号注册流程 |          |
 | -------------------------------------- | -------- |
@@ -65,8 +66,6 @@ image: assets/img/preview/apple_dev.jpg
   该账号要与公司注册管辖区一致，如美国公司就用美区appleID
 
 - 一台Apple设备（确保此前未使用该设备注册过开发者账号）
-
-- 准备好下表相关信息
 
 本文以新加坡公司为例，分享apple组织开发者的注册过程。
 
